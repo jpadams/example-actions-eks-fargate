@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CLUSTER_NAME=jpadams-foobar
+CLUSTER_NAME=jpadams-foobar1
 AWS_REGION=eu-west-1
 
 #check for needed commands
