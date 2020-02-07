@@ -30,7 +30,7 @@ jobs:
 
     env:
       AWS_REGION: eu-west-1
-      EKS_CLUSTER_NAME: jpadams-foobar1
+      EKS_CLUSTER_NAME: jpadams-foobar2
 
     steps:
     - name: Checkout
